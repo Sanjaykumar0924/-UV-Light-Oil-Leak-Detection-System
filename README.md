@@ -191,8 +191,8 @@ Confidence:
 
 ## 👨‍💻 Developer
 
-SANJAY KUMAR H
-DEVASANJAY N
+- SANJAY KUMAR H
+- DEVASANJAY N
 
 ## 🏢 Internship
 

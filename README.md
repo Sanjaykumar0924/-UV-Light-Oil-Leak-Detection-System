@@ -138,10 +138,11 @@ UV-Oil-Leak-Detection/
 - Engine oil leak detection
 - Transmission fluid inspection
 
-### Manufacturing Plants
-
+### Manufacturing Plant
 - Hydraulic system monitoring
 - Machinery maintenance
+
+<img width="537" height="342" alt="Screenshot 2026-02-02 143711" src="https://github.com/user-attachments/assets/71b67a95-c4d0-4902-98f8-060f2c5f0098" />
 
 ### Oil & Gas Industry
 
@@ -173,6 +174,11 @@ Y = 178
 Confidence:
 96.4%
 ```
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/fe0da56c-d90c-480a-8114-be7f5c82a49a" />
+
+
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/beadc277-bd9d-43de-a259-f2670e0e3aa4" />
+
 
 ## 📋 Advantages
 

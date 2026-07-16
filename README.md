@@ -1,4 +1,3 @@
-
 # 🛢️ Intelligent UV Fluorescence Oil Leak Detection System using Computer Vision
 
 > **Developed during Internship at Stellantis (Citroën), Thiruvallur**

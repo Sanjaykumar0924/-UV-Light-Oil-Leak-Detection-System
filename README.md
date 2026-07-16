@@ -105,7 +105,6 @@ UV-Oil-Leak-Detection/
 ### Image Acquisition
 
 - Capture images under UV illumination.
-<img width="665" height="877" alt="Screenshot 2026-01-28 092409" src="https://github.com/user-attachments/assets/4e859286-159c-4dc5-ae81-d4bb69eedfa2" />
 
 ### Preprocessing
 
